@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "description": "Ranked tier of ORGANVM repositories with discovered latent value. Repos listed here have a written value thesis (see each repo's DISCOVERY.md) and are eligible for build-out.",
+  "value_repos": [
+    "organvm/showcase-portfolio"
+  ]
+}
